@@ -1,0 +1,6 @@
+{
+    "require": {
+        "linfo/linfo": "^4.0",
+        "tonyhhyip/sse": "^2.1"
+    }
+}
