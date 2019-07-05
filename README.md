@@ -1,3 +1,4 @@
 ### HTML5 Server-Sent events
-
-[Article](https://viblo.asia/pht/posts/MJyGjQBjvPB)
+### remember install composer : https://getcomposer.org/download/
+### run : composer install
+### view demo
